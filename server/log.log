@@ -1,0 +1,14 @@
+[INFO] 21:49:48:768 Servidor/(3705:3705): Listo para escuchar a mi cliente
+[INFO] 21:49:48:768 Servidor/(3705:3705): Servidor listo para recibir al cliente
+[INFO] 22:01:04:697 Servidor/(3765:3765): Listo para escuchar a mi cliente
+[INFO] 22:01:04:697 Servidor/(3765:3765): Servidor listo para recibir al cliente
+[INFO] 22:02:42:002 Servidor/(3765:3765): Se conecto un cliente!
+[INFO] 22:02:42:002 Servidor/(3765:3765): Me llego el mensaje valor
+[ERROR] 22:02:42:003 Servidor/(3765:3765): el cliente se desconecto. Terminando servidor
+[INFO] 14:07:13:804 Servidor/(110709:110709): Listo para escuchar a mi cliente
+[INFO] 14:07:13:804 Servidor/(110709:110709): Servidor listo para recibir al cliente
+[INFO] 14:07:39:535 Servidor/(110709:110709): Se conecto un cliente!
+[INFO] 14:07:39:535 Servidor/(110709:110709): Me llego el mensaje valor
+[INFO] 14:07:49:136 Servidor/(110709:110709): Me llegaron los siguientes valores:
+
+[ERROR] 14:07:49:136 Servidor/(110709:110709): el cliente se desconecto. Terminando servidor
