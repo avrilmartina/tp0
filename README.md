@@ -11,5 +11,4 @@ Es un ejercicio corto y sirve como base para empezar el TP cuatrimestral.
 Podés encontrar la consigna en el siguiente [link].
 
 [link]: https://faq.utnso.com.ar/tp0-enunciado
-# tp0
-# tp0
+
